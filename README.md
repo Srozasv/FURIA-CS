@@ -11,9 +11,11 @@ Tecnologias Utilizadas
 
     JavaScript
 
-    Botpress (plataforma de chatbot)
-
-    Google Fonts (Roboto)
+    Botpress
+ 
+    Google Firebase
+ 
+    Google Fonts 
 
     Google Material Icons
 
@@ -26,8 +28,7 @@ Funcionalidades
     Integração com API do Botpress para respostas inteligentes
 
     Design moderno com elementos visuais da marca FURIA
-
-    Scroll automático para novas mensagens
+    
 
 Como Usar
 
